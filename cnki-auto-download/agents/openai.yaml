@@ -1,0 +1,3 @@
+interface:
+  display_name: "知网 PDF 下载"
+  short_description: "通过可见浏览器检索知网论文，按题名回查详情页，PDF 优先下载并输出问题清单。"
